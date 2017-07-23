@@ -1,0 +1,17 @@
+﻿# IntelliJ IDEA Project files
+.idea
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+.vscode
+.vscode/
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+*.zip
